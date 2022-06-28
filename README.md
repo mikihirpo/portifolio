@@ -6,3 +6,6 @@ My first repo of microverse
 Michael Hirpo
 mikaelhirpo@gmail.com
 
+## Company
+Microverse
+
